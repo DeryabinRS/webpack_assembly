@@ -1,0 +1,15 @@
+
+
+body{
+    font-family: 'Montserrat';
+    background-color: $back;
+    color: $text;
+    user-select: none;
+}
+
+.image {
+    width: 300px;
+    height: 500px;
+    background-size: cover;
+    background-image: url('./img/6096cj2d3_580x0.jpg');
+}
